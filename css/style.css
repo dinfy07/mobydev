@@ -12,6 +12,7 @@ h2 {
 }
 p{
     font-size: 16px;
+    color: darkorange;
 }
 .city{
     color: green;
@@ -30,6 +31,15 @@ ul{
 #third{
     color: greenyellow;
 }
-
-
-
+.qwerty{
+    color: green;
+}
+#asdfg{
+    color: blueviolet;
+}
+#qwertyui{
+    color: red;
+}
+.zxcvb{
+    color: blue;
+}
