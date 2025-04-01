@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59d110d1-4e2d-4bf1-bcaf-369286549aea" name="Changes" comment="Tables">
-      <change afterPath="$PROJECT_DIR$/form/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 1/Task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/title/title.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 2/123.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/link_img/123.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 2/img.html" beforeDir="false" afterPath="$PROJECT_DIR$/link_img/a_img.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/table/list_table.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -63,6 +61,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,7 +97,7 @@
       <workItem from="1741348957522" duration="2040000" />
       <workItem from="1741352619528" duration="3012000" />
       <workItem from="1743395211661" duration="1229000" />
-      <workItem from="1743487715289" duration="1488000" />
+      <workItem from="1743487715289" duration="3589000" />
     </task>
     <task id="LOCAL-00001" summary="Images and links">
       <option name="closed" value="true" />
@@ -124,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741358143368</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tables">
+      <option name="closed" value="true" />
+      <created>1743489315224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743489315224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

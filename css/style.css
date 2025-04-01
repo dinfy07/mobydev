@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: #fff4ce;
+}
+h1, h2 {
+    margin-bottom: 0;
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+    margin-top: 0;
+}
+p{
+    font-size: 16px;
+}
+.city{
+    color: green;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#first{
+    color: #5bf6ff;
+}
+#second{
+    color: #91c4ff;
+}
+#third{
+    color: #ffa29e;
+}
+
+
+
