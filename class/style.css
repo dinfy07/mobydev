@@ -1,0 +1,45 @@
+h1:hover{
+    text-decoration: underline;
+    color: blue;
+}
+input:focus{
+    border: 10px solid blue;
+    border-radius: 5px;
+}
+.child:first-child{
+    list-style-type: none;
+    color: #91c4ff;
+}
+.child:first-child:hover{
+    color: indigo;
+}
+.child:last-child{
+    list-style-type: armenian;
+    color: #0307f1;
+}
+.child:last-child:hover{
+    color: midnightblue;
+}
+div{
+    & h1:hover{
+        color: peachpuff;
+        font-size: 26px;
+    }
+    & a:hover{
+        text-decoration: underline;
+        color: red;
+    }
+    & li:nth-child(odd){
+        color: darkolivegreen;
+        font-weight: bold;
+    }
+    & li:nth-child(even){
+        color: indianred;
+        font-weight: inherit;
+    }
+    & li:last-child{
+        & input:focus{
+            border: 10px solid darkolivegreen;
+        }
+    }
+}
