@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d110d1-4e2d-4bf1-bcaf-369286549aea" name="Changes" comment="Images and links">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/123.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Task 2/123.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1/Task1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img.html" beforeDir="false" afterPath="$PROJECT_DIR$/Task 2/img.html" afterDir="false" />
+    <list default="true" id="59d110d1-4e2d-4bf1-bcaf-369286549aea" name="Changes" comment="Tables">
+      <change afterPath="$PROJECT_DIR$/form/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1/Task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/title/title.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 2/123.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/link_img/123.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 2/img.html" beforeDir="false" afterPath="$PROJECT_DIR$/link_img/a_img.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/table/list_table.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dinfy07"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dinfy07&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dinfy07/mobydev.git",
-    "accountId": "e66d9128-0266-420b-9de3-1b3bf7acf803"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dinfy07/mobydev.git&quot;,
+    &quot;accountId&quot;: &quot;e66d9128-0266-420b-9de3-1b3bf7acf803&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -57,6 +58,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.img.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -66,7 +68,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -94,7 +96,9 @@
       <updated>1741348088636</updated>
       <workItem from="1741348089706" duration="716000" />
       <workItem from="1741348957522" duration="2040000" />
-      <workItem from="1741352619528" duration="2397000" />
+      <workItem from="1741352619528" duration="3012000" />
+      <workItem from="1743395211661" duration="1229000" />
+      <workItem from="1743487715289" duration="1488000" />
     </task>
     <task id="LOCAL-00001" summary="Images and links">
       <option name="closed" value="true" />
@@ -104,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741353006807</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tables">
+      <option name="closed" value="true" />
+      <created>1741358077683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741358077683</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tables">
+      <option name="closed" value="true" />
+      <created>1741358143368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741358143368</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Images and links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Images and links" />
+    <MESSAGE value="Tables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tables" />
   </component>
 </project>
