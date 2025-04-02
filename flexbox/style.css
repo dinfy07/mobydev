@@ -1,0 +1,48 @@
+.block{
+    display: block;
+    background-color: #0307f1;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 5px solid #ff0000;
+}
+.inline{
+    display: inline;
+    background-color: #0307f1;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 5px solid #ff0000;
+}
+.flex{
+    display: flex;
+    background-color: #0307f1;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 5px solid #ff0000;
+}
+.column{
+    display: flex;
+    flex-flow: column wrap;
+    /*flex-direction: column;*/
+    /*flex-wrap: wrap;*/
+    height: 100%;
+    /* flow написал вместо дайрекшн урап    */
+}
+.content{
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 50vh;
+    align-content: end;
+    align-items: center;
+}
+.grow{
+    flex-wrap: wrap;
+    width: 100%;
+    & div{
+        background-color: #ff0000;
+        border: 1px solid #90ff00;
+        flex: 1 1 25px;
+    }
+}
