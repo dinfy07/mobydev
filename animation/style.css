@@ -1,0 +1,47 @@
+.transform{
+    height: 500px;
+    width:  500px;
+    background: linear-gradient(69deg, blue, red);
+}
+.right{
+    transform: rotate(43deg);
+}
+.left{
+    transform: rotate(-57deg);
+}
+.little{
+    transform: scale(0.3);
+}
+.big{
+    transform: scale(1.2);
+}
+.X{
+    transform: translateX(1000px);
+}
+.Y{
+    transform: translateY(-500px);
+}
+.up{
+    transform: skewY(20deg);
+}
+.down{
+    transform: skewx(20deg);
+}
+.hover{
+    transition: 1s;
+}
+.hover:hover{
+    transform: rotate(90deg);
+}
+@keyframes pulse {
+    0%,20%,60%,80%,100%{
+        transform: scale(0.5);
+    }
+    10%,30%,50%,70%,90%{
+        transform: scale(0.8);
+    }
+}
+.circle{
+    border-radius: 50%;
+    animation: pulse 1s infinite ease-in;
+}
