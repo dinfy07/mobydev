@@ -1,0 +1,26 @@
+.div1{
+    height: 200px;
+    width: 350px;
+    box-shadow: 5px 10px 10px 5px red;
+}
+.div2{
+    height: 350px;
+    width: 100px;
+    box-shadow: -10px -10px 20px 5px blue;
+}
+h1{
+    text-shadow:  1px 1px 10px pink;
+}
+p{
+    text-shadow:  2px 3px 20px green;
+}
+.linear{
+    height: 200px;
+    width: 350px;
+    background: linear-gradient(60deg, darkblue, blue, blueviolet, darkviolet );
+}
+.radial{
+    height: 200px;
+    width: 350px;
+    background: radial-gradient(ellipse, pink, red);
+}
